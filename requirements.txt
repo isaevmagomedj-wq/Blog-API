@@ -9,6 +9,7 @@ Django==4.2.16
 django-allauth==65.14.1
 django-cache-url==3.4.6
 django-cors-headers==4.9.0
+django-environ==0.13.0
 djangorestframework==3.16.1
 drf-spectacular==0.29.0
 idna==3.11
